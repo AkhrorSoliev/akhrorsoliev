@@ -1,49 +1,21 @@
-<!-- Developer Aesthetic Center Layout -->
+# 👋 Hello, I'm Ahror
 
-<h1 align="center">Ahror</h1>
+🚀 Frontend Developer (Learning Backend & AI)
 
-<p align="center">
-  Frontend Developer • AI Engineer in Progress
-</p>
+## 🔥 About Me
+- 💻 JavaScript & React Developer
+- 🤖 Learning AI Engineering
+- 🎯 Building in public
+- 📍 Uzbekistan
 
-<p align="center">
-  <a href="https://youtube.com/">
-    YouTube
-  </a>
-  ·
-  <a href="https://t.me/">
-    Telegram
-  </a>
-  ·
-  <a href="https://linkedin.com/">
-    LinkedIn
-  </a>
-</p>
+## 🛠 Tech Stack
+- HTML
+- CSS / Tailwind
+- JavaScript
+- React
+- Firebase
 
----
-
-<p align="center">
-  I build clean interfaces, scalable systems and AI-powered products.
-</p>
-
----
-
-<h3 align="center">Stack</h3>
-
-<p align="center">
-  HTML · CSS · Tailwind · JavaScript · React · Node.js · Firebase
-</p>
-
----
-
-<h3 align="center">Current Focus</h3>
-
-<p align="center">
-  AI Integrations · Telegram Bots · Education Platforms · Prompt Engineering
-</p>
-
----
-
-<p align="center">
-  <sub>Based in Uzbekistan</sub>
-</p>
+## 📈 Currently Working On
+- Telegram AI Bots
+- Online Education Platform
+- YouTube AI Content
