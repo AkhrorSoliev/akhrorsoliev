@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Akhror Soliev
+# 👋 Hallo, I'm Akhror Soliev
 
 🚀 Full-Stack Developer focused on scalable web applications & AI systems
 
