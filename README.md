@@ -1,16 +1,49 @@
-## Hi there 👋
+<!-- Developer Aesthetic Center Layout -->
 
-<!--
-**AkhrorSoliev/akhrorsoliev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Ahror</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  Frontend Developer • AI Engineer in Progress
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://youtube.com/">
+    YouTube
+  </a>
+  ·
+  <a href="https://t.me/">
+    Telegram
+  </a>
+  ·
+  <a href="https://linkedin.com/">
+    LinkedIn
+  </a>
+</p>
+
+---
+
+<p align="center">
+  I build clean interfaces, scalable systems and AI-powered products.
+</p>
+
+---
+
+<h3 align="center">Stack</h3>
+
+<p align="center">
+  HTML · CSS · Tailwind · JavaScript · React · Node.js · Firebase
+</p>
+
+---
+
+<h3 align="center">Current Focus</h3>
+
+<p align="center">
+  AI Integrations · Telegram Bots · Education Platforms · Prompt Engineering
+</p>
+
+---
+
+<p align="center">
+  <sub>Based in Uzbekistan</sub>
+</p>
