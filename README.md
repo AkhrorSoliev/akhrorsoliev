@@ -1,21 +1,34 @@
-# 👋 Hello, I'm Ahror
+# 👋 Hello, I'm Akhror Soliev
 
-🚀 Frontend Developer (Learning Backend & AI)
+🚀 Full-Stack Developer focused on scalable web applications & AI systems
 
-## 🔥 About Me
-- 💻 JavaScript & React Developer
-- 🤖 Learning AI Engineering
-- 🎯 Building in public
-- 📍 Uzbekistan
+---
 
-## 🛠 Tech Stack
-- HTML
-- CSS / Tailwind
-- JavaScript
-- React
-- Firebase
+## 🧠 About Me
 
-## 📈 Currently Working On
-- Telegram AI Bots
-- Online Education Platform
-- YouTube AI Content
+- Full-Stack JavaScript Engineer (TypeScript-first)
+- Building production-grade systems with Next.js & Node.js
+- Designing clean backend architectures and APIs
+- Integrating AI into real-world applications
+- 🇩🇪 Based in Germany
+
+---
+
+## ⚙️ Tech Stack
+
+- TypeScript
+- React & Next.js
+- Node.js (Express)
+- RESTful API Design
+- Authentication & Authorization (JWT)
+- MongoDB & SQL Databases
+- Git & Cloud Deployment
+
+---
+
+## 📌 Current Focus
+
+- AI-driven Full-Stack Applications
+- Scalable Backend Architecture
+- LLM Integrations
+- High-performance Web Platforms
